@@ -57,3 +57,4 @@ urllib3==2.2.3
 uvicorn==0.31.0
 Werkzeug==3.0.4
 wrapt==1.16.0
+python==3.10.*
